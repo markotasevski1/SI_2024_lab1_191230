@@ -1,0 +1,4 @@
+1.git init - inicijalizacija na git vo direktorium
+2. git add . - dodavanje na promenite sto se napraveni vo version control
+3. git push - isprakjanje na promenite na github
+4.
