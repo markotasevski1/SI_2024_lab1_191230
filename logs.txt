@@ -1,0 +1,92 @@
+PS C:\Users\marko\OneDrive\Desktop\SI_2024_lab1_191230> git log
+commit e0eaadc4adfe0d74e63f1b1d1e8c7622145d44a6 (HEAD -> master, origin/master)
+Merge: 155198b 033a04d
+Author: Marko Tasevski <60316027+markotasevski1@users.noreply.github.com>
+Date:   Sat Apr 13 11:19:08 2024 +0200
+
+    Merge pull request #2 from markotasevski1/bug1
+
+commit 033a04d914a91544a9e05929194df6fb84ae0374 (origin/bug1, bug1)
+Merge: 3fb409c 155198b
+Author: markotasevski1 <markotasevski123@yahoo.com>
+Date:   Sat Apr 13 11:18:48 2024 +0200
+
+    resolved conflict
+
+commit 3fb409c07202120b1f02bbaa755b0eacf18e025f
+Author: markotasevski1 <markotasevski123@yahoo.com>
+Date:   Sat Apr 13 11:17:01 2024 +0200
+
+    resolved conflict
+
+commit 155198bdfb2343a5cff02cf8ce07580f66d62930
+Merge: 279b7e6 dee1a5c
+Author: Marko Tasevski <60316027+markotasevski1@users.noreply.github.com>
+Date:   Sat Apr 13 11:15:25 2024 +0200
+
+    Merge pull request #1 from markotasevski1/bug2
+
+commit dee1a5c5de81d32160e59fda250fdcd09975d217 (origin/bug2, bug2)
+Author: markotasevski1 <markotasevski123@yahoo.com>
+:
+commit e0eaadc4adfe0d74e63f1b1d1e8c7622145d44a6 (HEAD -> master, origin/master)
+Merge: 155198b 033a04d
+Author: Marko Tasevski <60316027+markotasevski1@users.noreply.github.com>
+Date:   Sat Apr 13 11:19:08 2024 +0200
+
+    Merge pull request #2 from markotasevski1/bug1
+
+commit 033a04d914a91544a9e05929194df6fb84ae0374 (origin/bug1, bug1)
+Merge: 3fb409c 155198b
+Author: markotasevski1 <markotasevski123@yahoo.com>
+Date:   Sat Apr 13 11:18:48 2024 +0200
+
+    resolved conflict
+
+commit 3fb409c07202120b1f02bbaa755b0eacf18e025f
+Author: markotasevski1 <markotasevski123@yahoo.com>
+Date:   Sat Apr 13 11:17:01 2024 +0200
+
+    resolved conflict
+
+commit 155198bdfb2343a5cff02cf8ce07580f66d62930
+Merge: 279b7e6 dee1a5c
+Author: Marko Tasevski <60316027+markotasevski1@users.noreply.github.com>
+Date:   Sat Apr 13 11:15:25 2024 +0200
+
+    Merge pull request #1 from markotasevski1/bug2
+
+commit dee1a5c5de81d32160e59fda250fdcd09975d217 (origin/bug2, bug2)
+Author: markotasevski1 <markotasevski123@yahoo.com>
+:
+commit e0eaadc4adfe0d74e63f1b1d1e8c7622145d44a6 (HEAD -> master, origin/master)
+Merge: 155198b 033a04d
+Author: Marko Tasevski <60316027+markotasevski1@users.noreply.github.com>
+Date:   Sat Apr 13 11:19:08 2024 +0200
+
+    Merge pull request #2 from markotasevski1/bug1
+
+commit 033a04d914a91544a9e05929194df6fb84ae0374 (origin/bug1, bug1)
+Merge: 3fb409c 155198b
+Author: markotasevski1 <markotasevski123@yahoo.com>
+Date:   Sat Apr 13 11:18:48 2024 +0200
+
+    resolved conflict
+
+commit 3fb409c07202120b1f02bbaa755b0eacf18e025f
+Author: markotasevski1 <markotasevski123@yahoo.com>
+Date:   Sat Apr 13 11:17:01 2024 +0200
+
+    resolved conflict
+
+commit 155198bdfb2343a5cff02cf8ce07580f66d62930
+Merge: 279b7e6 dee1a5c
+Author: Marko Tasevski <60316027+markotasevski1@users.noreply.github.com>
+Date:   Sat Apr 13 11:15:25 2024 +0200
+
+    Merge pull request #1 from markotasevski1/bug2
+
+commit dee1a5c5de81d32160e59fda250fdcd09975d217 (origin/bug2, bug2)
+Author: markotasevski1 <markotasevski123@yahoo.com>
+Date:   Sat Apr 13 11:12:27 2024 +0200
+:

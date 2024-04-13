@@ -1,7 +1,19 @@
 1.git init - inicijalizacija na git vo direktorium
 2. git add . - dodavanje na promenite sto se napraveni vo version control
 3. git push - isprakjanje na promenite na github
-4. git checkout -b "bug" - kreiraj granka "bug"
+4. git checkout -b "bug1" - kreiraj granka "bug1"
 5. git branch - proverka na koj branch se naogjate
 6. git checkout master - prefrli se na taa granka
 7. git checkout -b "bug2" - kreiraj granka bug2
+8. git checkout bug1, napraviv promeni vo SILab1_1, git stauts git add . git commit -m ".." 
+9. git checkout bug2, napraviv promeni vo SILab1_2, git status git add . git commit -m ".."
+10. git checkout bug1, napraviv promenmi vo SILab1Main 
+11. git chceckout bug2, napraviv promeni vo SiLab1Main
+12. git checkout master bug1 - git push origin bug1
+13. merge na master
+14. git checkout master, git pull
+15. git checkout bug2, git merge master
+16. resolved conflicts
+17. git push origin bug2
+18. merge so master remote repo
+19 git checkout master git pull
